@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.mmin18.layoutcast:library-1.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/90fc3b9573b982181b5ee1e556780873/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.1.5.aar/90fc3b9573b982181b5ee1e556780873/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mmin18.layoutcast/library/1.1.5/948768e31267f0fbafa7a6b8a68decc51a56bdf2/library-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

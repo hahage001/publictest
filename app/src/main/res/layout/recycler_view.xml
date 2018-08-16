@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:staggered="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.my.textyl.recycler.views.StaggeredGridView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+
+        android:id="@+id/id_staggered"/>
+    <com.etsy.android.grid.StaggeredGridView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/grid_view"
+        android:drawSelectorOnTop="true"
+        app:column_count="2"
+        tools:listitem="2dddddddddddddddddddddddddddddddddddd"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:item_margin="8dp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/red"
+        android:text="111"/>
+
+
+</LinearLayout>

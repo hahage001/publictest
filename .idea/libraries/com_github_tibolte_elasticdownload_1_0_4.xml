@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.tibolte:elasticdownload-1.0.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/elasticdownload-1.0.4.aar/6c27a8a0a38b1ff8fd33303d1cd7af15/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/elasticdownload-1.0.4.aar/6c27a8a0a38b1ff8fd33303d1cd7af15/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tibolte/elasticdownload/1.0.4/9f74d3bbcd7a094af8dc68363ae6c22a2fbc51c3/elasticdownload-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\sixgj\\myandroidstudio\\66km_project_zhongchi_android\\66km_project_zhongchi_android\\yewuyuan_app\\pulltolvlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "D:\\sixgj\\myandroidstudio\\66km_project_zhongchi_android\\66km_project_zhongchi_android\\yewuyuan_app\\pulltolvlibrary\\build\\intermediates\\bundles\\debug\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,206",
+                        "endColumns": "77,72,83",
+                        "endOffsets": "128,201,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\sixgj\\myandroidstudio\\TextYL\\pulltolvlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "D:\\sixgj\\myandroidstudio\\TextYL\\pulltolvlibrary\\build\\intermediates\\bundles\\debug\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,206",
+                        "endColumns": "77,72,83",
+                        "endOffsets": "128,201,285"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.my.textyl.MainActivity">
+
+    <ListView
+        android:id="@+id/id_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="afterDescendants"></ListView>
+
+    <TextView
+        android:id="@+id/id_ceshi"
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:gravity="center"
+        android:stateListAnimator="@animator/fanpaizi"
+        android:text="测试"
+        android:visibility="gone" />
+
+
+    <!-- put whatever you want -->
+
+
+</android.support.constraint.ConstraintLayout>
